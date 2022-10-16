@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+    <string>com.opa334.u0launcher</string>
+	<key>com.apple.security.exception.mach-lookup.global-name</key>
+	<array>
+		<string>com.apple.MobileFileIntegrity</string>
+	</array>
+	<key>com.apple.backboardd.launchapplications</key>
+	<true/>
+	<key>com.apple.multitasking.termination</key>
+	<true/>
+</dict>
+</plist>
