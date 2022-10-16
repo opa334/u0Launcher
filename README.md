@@ -10,4 +10,4 @@ u0Launcher is an App that first sends an empty XPC message to amfid to make it s
 
 2. Install u0Launcher through TrollStore
 
-3. When jailbreaking, launch u0Launcher instead of unc0ver, it will do the neccessary fix up and then jump to unc0ver and when you then press the jailbreak button, it will work.
+3. When jailbreaking, start the u0Launcher app instead of unc0ver, it will do the neccessary fix and then jump to unc0ver. Then you can press the "Jailbreak" button in the unc0ver app and it will work.
